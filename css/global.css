@@ -1,6 +1,16 @@
-:root{
-    --background-primary-color: #ffffff;
-    --background-secondary-color: brown;
+:root {
+  --background-primary-color: #ffffff;
+  --background-secondary-color: brown;
 
-    --text-primary-color: #000000;
+  --text-primary-color: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
 }
